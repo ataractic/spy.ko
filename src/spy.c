@@ -291,6 +291,6 @@ module_init(spy_init);
 module_exit(spy_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("mystère <contact@mystere.dev>");
+MODULE_AUTHOR("mystère <contact@myst.re>");
 MODULE_DESCRIPTION("spy kernel module");
-MODULE_VERSION("0.1");
+MODULE_VERSION("1.0.0");
